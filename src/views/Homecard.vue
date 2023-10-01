@@ -3,7 +3,7 @@
         <div class="container">
 
             <div class="card" style="width: 35rem;">
-                <img src="src\assets\bang_kwang.jpeg" class="card-img-top" alt="Bangkwang Cafe Image">
+                <img src="../assets/bang_kwang.jpeg" class="card-img-top" alt="Bangkwang Cafe Image">
                 <div class="card-body">
                     <h5 class="card-title">Bangkwang ca'fe</h5>
                     <p class="card-text">ร้านตกแต่งจำลองร้านเป็นคุกบางขวาง บรรยากาศดี ชิลล์ๆ ดนตรีสดเล่นเพราะ
@@ -15,7 +15,7 @@
             </div>
 
             <div class="card" style="width: 35rem;">
-                <img src="src\assets\Beer-Lab.png" class="card-img-top" alt="Beer Lab">
+                <img src="../assets/Beer-Lab.png" class="card-img-top" alt="Beer Lab">
                 <div class="card-body">
                     <h5 class="card-title">Beer Lab</h5>
                     <p class="card-text">ที่นี่มีเบียร์ให้เลือกดื่มเยอะมาก ๆ ไม่ว่าจะเป็นเบียร์ Craft หรือ Cocktail
@@ -28,7 +28,7 @@
             </div>
 
             <div class="card" style="width: 35rem;">
-                <img src="src\assets\Warmupcafe-01-1536x1025.jpeg" class="card-img-top" alt="...">
+                <img src="../assets/Warmupcafe-01-1536x1025.jpeg" class="card-img-top" alt="...">
                 <div class="card-body">
                     <h5 class="card-title">Warm up cafe</h5>
                     <p class="card-text">เป็นร้านใหญ่ของเชียงใหม่ มีทั้งโซนผับ โซนดนตรีสด และยังมีโซนให้นั่งทางอาหาร</p>
@@ -39,7 +39,7 @@
             </div>
 
             <div class="card" style="width: 35rem;">
-                <img src="src\assets\Hom_bar.jpeg" class="card-img-top" alt="...">
+                <img src="../assets/Hom_bar.jpeg" class="card-img-top" alt="...">
                 <div class="card-body">
                     <h5 class="card-title">Hom Bar Chiang Mai</h5>
                     <p class="card-text">ร้านนี้มีดนตรีสดให้ฟังยันเที่ยงคืน มีบัคเก็ตที่ต้องบอกเลยว่า “กิ๋นง่าย เมาง่าว”
